@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered Data Analyst
 
 Upload one or more CSV files and interact with your data using natural language — ask
@@ -143,6 +142,3 @@ _Add screenshots and a link to the demo video here before submission._
 
 See [`docs/architecture.md`](docs/architecture.md) — includes a Mermaid flowchart of the
 end-to-end request lifecycle.
-=======
-# Ai-data-analyst
->>>>>>> origin/main
